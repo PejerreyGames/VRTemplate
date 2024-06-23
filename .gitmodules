@@ -1,0 +1,3 @@
+[submodule "Assets/PG_Framework"]
+	path = Assets/PG_Framework
+	url = https://github.com/PejerreyGames/PG_Framework
